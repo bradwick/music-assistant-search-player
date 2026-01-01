@@ -12,7 +12,7 @@ A modern, fully client-side Lovelace card for Home Assistant with Music Assistan
 
 ## Installation
 1. Add this repo to HACS.
-2. Add `music-assistant-dashboard.js` as a resource in Lovelace.
+2. Add `cards/music-assistant-dashboard.js` as a resource in Lovelace.
 3. Use the card in your dashboard:
 
 ```yaml
