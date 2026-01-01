@@ -1,0 +1,10 @@
+{
+  "name": "Music Assistant Lovelace Dashboard",
+  "content": "A modern Lovelace card for Music Assistant with built-in helpers, full search, queue, now playing, and playback controls.",
+  "version": "3.0.0",
+  "dependencies": [],
+  "url": "",
+  "type": "lovelace",
+  "homeassistant": "2026.1.0",
+  "zip_release": false
+}
