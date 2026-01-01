@@ -4,7 +4,7 @@
   "version": "3.0.0",
   "dependencies": [],
   "url": "",
-  "type": "lovelace",
+  "type": "dashboard",
   "homeassistant": "2026.1.0",
   "zip_release": false
 }
